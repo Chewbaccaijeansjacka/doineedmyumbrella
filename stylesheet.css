@@ -1,0 +1,51 @@
+
+body, html {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#background {
+    background-color: #fff;
+}
+
+#textcolor {
+    color: #404040;
+}
+
+#temp {
+  margin-top: 10%;
+  font-size: 90%;
+}
+
+#location {
+  margin-top: -10%;
+  font-size: 2vw;
+}
+
+#weather {
+  margin-top: 20%;
+}
+
+p, h1, h2 {
+  font-family: Fredoka One;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3vw;
+}
+
+p {
+  font-size: 13vw;
+}
+
+.center {
+  position: absolute;
+  top: 5%;
+}
+
+.textsize {
+  font-size: 4vw;
+}
